@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Height of each list item thumbnail -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <!-- Margin between ImageView and TextViews -->
+    <dimen name="iv_tv_margin">8dp</dimen>
+
+    <!-- TextView bottom padding -->
+    <dimen name="tv_padding_bottom">2dp</dimen>
+
+
+
+</resources>
